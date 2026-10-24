@@ -1,0 +1,86 @@
+- title: General Information
+  anchor: general-information
+  type: map
+  contents:
+    - name: Full Name
+      value: Seohyung Hong
+
+- title: Education
+  anchor: education
+  type: time_table
+  contents:
+    - title: Master's Student
+      institution: Seoul National University College of Medicine
+      year: "2024.12-PRESENT"
+      description:
+        - title: Major
+          contents: Department of Biomedical Science
+        - title: Research Interest
+          contents: Transcriptomics using AI, Pathology image segmentation using CV
+
+    - title: Bachelor's degree
+      institution: Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea
+      year: "2020.03-2025.02"
+      description:
+        - title: Major
+          contents: Computer Science(Main) & Biology(Double major)
+
+- title: Experience
+  anchor: experience
+  type: time_table
+  contents:
+    - title: AI Developer, Vezel
+      institution: Vezel Law Firm
+      year: "2026.08-PRESENT"
+
+    - title: AI Developer, Safesoft
+      institution: Safesoft Inc.
+      year: "2026.04-PRESENT"
+
+    - title: AI Developer, Healthpedia Inc.
+      institution: Healthpedia Inc., Dongguk University Seoul Hospital
+      year: "2025.08-PRESENT"
+
+    - title: Intern, Visual Intelligence Lab (VIVA Lab)
+      institution: University of Virginia
+      year: "2024.06-2024.08"
+
+    - title: Intern, Medical Image & Signal Processing Lab
+      institution: DGIST
+      year: "2023.06-2024.06"
+
+    - title: Intern, Spidercore Inc., KAIST Venture Enterprise
+      institution: KAIST
+      year: "2022.12-2023.02"
+
+    - title: Intern, Surgical Robotics & AR Research Center
+      institution: DGIST
+      year: "2022.08-2022.12"
+
+- title: Honors
+  anchor: honors
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - University of Virginia (UVA), Internship scholarship
+    - year: 2022
+      items:
+        - University of California, Los Angeles (UCLA), Seasonal semester scholarship
+    - year: 2020
+      items:
+        - DGIST Full scholarship
+    - year: 2016
+      items:
+        - Coshocton High School Full scholarship
+#- title: Academic Interests
+#  type: nested_list
+#  contents:
+#    - title: Topic 1
+#      items:
+#        - Description 1
+#        - Description 2
+#    - title: Topic 2
+#      items:
+#        - Description 1
+#        - Description 2
